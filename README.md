@@ -1,1 +1,0 @@
-# AstraFN-win64
